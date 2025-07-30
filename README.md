@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Mailson Sousa
 
-<!--
-**MailsonSousa88/MailsonSousa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Estudante+de+TADS+no+IFPI;Aprendendo+TypeScript+e+Lua;Criando+meus+próprios+games!" />
 
-Here are some ideas to get you started:
+🎓 Estudante de **TADS** no IFPI  
+🧠 Aprendendo **TypeScript** e explorando **Lua**  
+🎮 Busco me tornar um desenvolvedor **independente de jogos**  
+💻 Praticando com **HTML**, **CSS** e **JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+---
+
+### 🌱 Atualmente estudando:
+
+- Lógica de programação com TypeScript
+- Criação de jogos simples com Lua
+- VS Code, Git e GitHub
+
+---
+
+🧩 *"A melhor forma de aprender é construir algo que você ama!"*
