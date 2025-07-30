@@ -1,7 +1,5 @@
 ## 👋 Olá! Eu sou o Mailson Sousa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=435&lines=Estudante+de+TADS+no+IFPI;Aprendendo+TypeScript+e+Lua;Criando+meus+próprios+games!" />
-
 🎓 Estudante de **TADS** no IFPI  
 🧠 Aprendendo **TypeScript** e explorando a linguagem **Lua**  
 🎮 Busco me tornar um desenvolvedor de **jogos de forma independente**  
