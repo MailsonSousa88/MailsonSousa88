@@ -14,7 +14,7 @@
 ### 🌱 Atualmente estudando:
 
 - Lógica de programação com TypeScript
-- Criação de jogos simples com Lua no Roblox Studio
+- Criação de jogos com Lua no Roblox Studio
 - VS Code, Git e GitHub
 
 ---
