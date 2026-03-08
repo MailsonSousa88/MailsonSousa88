@@ -17,7 +17,7 @@ Desde sempre fui apaixonado por **jogos**, mas principalmente por **entender com
 
 🎯 **Meu grande objetivo é me tornar um Game Developer independente**, criando meus próprios jogos e focando nos meus projetos pessoais!
 
-Pretendo aperfeiçoar meus conhecimentos não apenas na programação de jogos, como também na programação de dispositivos móveis e web focando  principalmente na carreira profissional.
+Continuo aperfeiçoando meus conhecimentos não apenas na programação de jogos, como também na programação de dispositivos móveis e web focando  principalmente na carreira profissional.
 
 Acredito que boa parte não deve me conhecer pelo meu nome real, mas como internauta utilizo o nome **Max** <br>
 
