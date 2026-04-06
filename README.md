@@ -25,7 +25,7 @@ Acredito que boa parte não deve me conhecer pelo meu nome real, mas como intern
 
 # 🎮 Projetos em Desenvolvimento
 
-- Atualmente estou trabalhando em dois projetos principais:
+Atualmente estou trabalhando em dois projetos principais:
 
 ### 🟦 CUBIX ESCAPE
 Um jogo focado em **desafios, lógica e mecânicas criativas** feito inteiramente para o **mundo mobile**.
