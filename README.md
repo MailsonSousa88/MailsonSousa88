@@ -124,6 +124,6 @@ Um jogo com temática sazonal divertida onde o objetivo é **eliminar inimigos e
 
 <p align="center">
 
-🏆 *"Os sonhos de um homen nunca tem fim"* 
+🏆 *"Os sonhos de um homen nunca tem fim"* 🏆
 
 </p>
