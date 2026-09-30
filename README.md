@@ -1,129 +1,194 @@
-<!-- BANNER -->
-<h1 align="center">👋 Olá, eu sou o Mailson Sousa</h1>
-<h3 align="center">🎮 Futuro Game Developer | 💻 Estudante de ADS</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0714,50:581C87,100:A855F7&height=220&section=header&text=MAILSON%20SOUSA&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Full-Stack%20Explorer&descAlignY=58&descSize=16" alt="Banner: Mailson Sousa" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Mailson+Sousa+%F0%9F%91%8B;Transformando+ideias+em+c%C3%B3digo+e+experi%C3%AAncias;Aprendendo%2C+criando+e+evoluindo+um+commit+por+vez)](https://git.io/typing-svg)
+
+`Desenvolvimento de jogos` · `Web` · `Mobile` · `APIs`
+
+[![GitHub](https://img.shields.io/badge/GitHub-0B0714?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MailsonSousa88)
+[![Visitas](https://komarev.com/ghpvc/?username=MailsonSousa88&style=for-the-badge&color=7E22CE&label=VISITAS)](https://github.com/MailsonSousa88)
+![Tema](https://img.shields.io/badge/TEMA-VIOLET_PROTOCOL-A855F7?style=for-the-badge&labelColor=0B0714)
+
+</div>
+
+## `> whoami`
+
+```ts
+const mailson = {
+  nome: "Mailson Sousa",
+  formacao: "Análise e Desenvolvimento de Sistemas — IFPI",
+  objetivo: "Criar jogos autorais e experiências digitais marcantes",
+  interesses: ["Game Dev", "Full-Stack", "Mobile", "Pixel Art"],
+  momentoAtual: "Transformando aprendizado em projetos reais"
+};
+```
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFPI** e apaixonado por descobrir como jogos e produtos digitais funcionam por dentro. Gosto de atravessar a fronteira entre lógica e criatividade: da API que sustenta uma ideia até a interface com a qual alguém realmente interage.
+
+Meu objetivo de longo prazo é atuar como **Game Developer independente**, criando meus próprios universos, mecânicas e histórias. Enquanto avanço nessa jornada, também construo projetos web e mobile para fortalecer minha base profissional.
+
+## `> mission_log`
+
+<table>
+  <tr>
+    <td>🎮</td>
+    <td><strong>Game development</strong></td>
+    <td>Estudando mecânicas, game loops e experiências interativas.</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Full-stack</strong></td>
+    <td>Conectando interfaces, regras de negócio, bancos de dados e APIs.</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td><strong>Mobile</strong></td>
+    <td>Criando experiências multiplataforma com React Native e Expo.</td>
+  </tr>
+  <tr>
+    <td>🐳</td>
+    <td><strong>Infraestrutura</strong></td>
+    <td>Explorando Docker, automações e ambientes reproduzíveis.</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><strong>Pixel art</strong></td>
+    <td>Desenvolvendo o lado visual para dar identidade aos meus jogos.</td>
+  </tr>
+</table>
+
+## `> featured_projects`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/MailsonSousa88/pedeaqui">PedeAqui</a></h3>
+      <p>Plataforma SaaS de vitrines digitais que aproxima pequenos empreendedores de seus clientes e leva o atendimento direto para o WhatsApp.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Supabase</code> <code>Stripe</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/MailsonSousa88/ifpimon-mobile">IFPIMon Mobile</a></h3>
+      <p>Aplicativo de estudo que consome a IFPIMon API e apresenta personagens, tipos, treinadores e descrições em uma experiência mobile.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌤️ <a href="https://github.com/MailsonSousa88/animo-diario">Ânimo Diário</a></h3>
+      <p>App mobile educacional que transforma desânimo em mensagens de ânimo, criado para praticar desenvolvimento e arquitetura MVVM.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>MVVM</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/MailsonSousa88/quiz-mania">Quiz Mania</a></h3>
+      <p>Jogo de perguntas e respostas desenvolvido em equipe para exercitar TypeScript, lógica de programação e interação no terminal.</p>
+      <p><code>TypeScript</code> <code>Game</code> <code>Team Project</code></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![Explorar projetos](https://img.shields.io/badge/EXPLORAR_TODOS_OS_PROJETOS-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0714)](https://github.com/MailsonSousa88?tab=repositories)
+
+</div>
+
+## `> tech_loadout`
+
+<div align="center">
+
+### Linguagens
+
+![TypeScript](https://img.shields.io/badge/TypeScript-171022?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-171022?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-171022?style=for-the-badge&logo=python&logoColor=3776AB)
+![Lua](https://img.shields.io/badge/Lua-171022?style=for-the-badge&logo=lua&logoColor=7E22CE)
+![HTML5](https://img.shields.io/badge/HTML5-171022?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-171022?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Front-end & mobile
+
+![React](https://img.shields.io/badge/React-171022?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-171022?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-171022?style=for-the-badge&logo=expo&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-171022?style=for-the-badge&logo=vite&logoColor=BD8BFF)
+
+### Back-end & dados
+
+![Node.js](https://img.shields.io/badge/Node.js-171022?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-171022?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-171022?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171022?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+### Games, infraestrutura & deploy
+
+![Unity](https://img.shields.io/badge/Unity-171022?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-171022?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-171022?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-171022?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-171022?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+
+### Próximos upgrades
+
+![C#](https://img.shields.io/badge/C%23-0B0714?style=for-the-badge&logo=sharp&logoColor=C084FC)
+![C++](https://img.shields.io/badge/C%2B%2B-0B0714?style=for-the-badge&logo=cplusplus&logoColor=C084FC)
+![Ruby](https://img.shields.io/badge/Ruby-0B0714?style=for-the-badge&logo=ruby&logoColor=C084FC)
+
+</div>
+
+## `> player_stats`
+
+<div align="center">
+
+![Seguidores](https://img.shields.io/github/followers/MailsonSousa88?style=for-the-badge&logo=github&label=SEGUIDORES&color=A855F7&labelColor=0B0714)
+![Estrelas](https://img.shields.io/github/stars/MailsonSousa88?affiliations=OWNER&style=for-the-badge&logo=github&label=ESTRELAS&color=A855F7&labelColor=0B0714)
+![Último commit](https://img.shields.io/github/last-commit/MailsonSousa88/MailsonSousa88?style=for-the-badge&logo=git&label=ÚLTIMO%20COMMIT&color=A855F7&labelColor=0B0714)
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MailsonSousa88&theme=transparent&title_color=A855F7&text_color=C4B5FD&bg_color=0B0714&border_color=6D28D9&icon_color=C084FC&chart_color=A855F7" alt="Histórico de contribuições de Mailson Sousa" />
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MailsonSousa88&theme=transparent&title_color=A855F7&text_color=C4B5FD&bg_color=0B0714&border_color=6D28D9&icon_color=C084FC" alt="Estatísticas gerais do GitHub" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MailsonSousa88&theme=transparent&title_color=A855F7&text_color=C4B5FD&bg_color=0B0714&border_color=6D28D9&icon_color=C084FC&chart_color=A855F7" alt="Repositórios por linguagem" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MailsonSousa88&theme=transparent&utcOffset=-3&title_color=A855F7&text_color=C4B5FD&bg_color=0B0714&border_color=6D28D9&icon_color=C084FC&chart_color=A855F7" alt="Horários mais produtivos no GitHub" />
+
+</div>
+
+## `> contribution_snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Cobrinha devorando as contribuições do GitHub" src="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<sub>Atualizada automaticamente todos os dias pelo GitHub Actions.</sub>
+
+</div>
+
+## `> next_level`
+
+- [x] Construir uma base sólida em lógica e desenvolvimento web
+- [x] Publicar projetos próprios no GitHub
+- [x] Explorar aplicações mobile e APIs
+- [x] Começar a trabalhar com containers e automações
+- [ ] Lançar meu primeiro jogo autoral completo
+- [ ] Aprofundar meus conhecimentos em Unity e C#
+- [ ] Criar um portfólio de pixel art e game design
+- [ ] Colaborar em projetos open source
 
 ---
 
-# 🌌 Sobre Mim
+<div align="center">
 
-Olá! Muito prazer, me chamo **Mailson Sousa**. <br>
-Sou um estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** pelo **IFPI**. <br>
-Meu objetivo é **aprimorar minhas habilidades em programação**, explorando tanto o mundo do **Frontend** quanto do **Backend**. <br>
-Desde sempre fui apaixonado por **jogos**, mas principalmente por **entender como eles funcionam e como são construídos**. <br>
+### Vamos criar alguma coisa juntos?
 
-🎯 **Meu grande objetivo é me tornar um Game Developer independente**, criando meus próprios jogos e focando nos meus projetos pessoais!
+Estou sempre aberto a trocar ideias sobre **tecnologia, jogos e projetos criativos**.
 
-Continuo aperfeiçoando meus conhecimentos não apenas na programação de jogos, como também na programação de dispositivos móveis e web focando  principalmente na carreira profissional.
+[![Fale comigo pelo GitHub](https://img.shields.io/badge/FALE_COMIGO_PELO_GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0714)](https://github.com/MailsonSousa88)
 
-Acredito que boa parte não deve me conhecer pelo meu nome real, mas como internauta utilizo o nome **Max** <br>
+<sub>“Os sonhos de um homem nunca têm fim.”</sub>
 
----
+</div>
 
-# 🎮 Projetos em Desenvolvimento
-
-Atualmente estou trabalhando em dois projetos principais:
-
-### 🟦 CUBIX ESCAPE
-Um jogo focado em **desafios, lógica e mecânicas criativas** feito inteiramente para o **mundo mobile**.
-
-### 🎃 PUMPKIN SHOOTER
-Um jogo com temática sazonal divertida onde o objetivo é **eliminar inimigos em um cenário dinâmico** controlado por waves.
-
----
-
-# 🚀 Tecnologias que estou utilizando/aprendendo
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,vite,vercel,html,css,git,github" />
-
-</p>
-
----
-
-# 🧠 Linguagens que utilizo/estudo
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,lua,python" />
-
-</p>
-
----
-
-# 📚 Linguagens que desejo aprender/praticar
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ruby,cs,cpp" />
-
-</p>
-
----
-
-# 🛠️ Ambientes de desenvolvimento que utilizo
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,unity" />
-<img src="https://cdn.simpleicons.org/robloxstudio" height="48">
-
-</p>
-
----
-
-# 🎯 Objetivos
-
-✔ Melhorar minhas habilidades em **programação**  
-✔ Evoluir no desenvolvimento **Frontend e Backend**  
-✔ Criar **jogos independentes**  
-✔ Me tornar um **Game Developer profissional**  
-✔ Evoluir minhas habilidades em **Pixel art**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MailsonSousa88&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MailsonSousa88&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=MailsonSousa88&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MailsonSousa88&theme=tokyo-night)
-
----
-
-# 🧩 Vamos nos conectar
-
-<p align="center">
-
-<a href="https://github.com/MailsonSousa88">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-🏆 *"Os sonhos de um homen nunca tem fim"* 🏆
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:581C87,100:0B0714&height=120&section=footer" alt="Rodapé decorativo" />
