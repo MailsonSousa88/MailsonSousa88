@@ -29,6 +29,29 @@ jobs:
           games: "bomberman"
           hide_month_labels: "false"
 
+      - name: Apply Violet Protocol palette
+        shell: bash
+        run: |
+          sed -i \
+            -e 's/#0d1117/#0B0714/g' \
+            -e 's/#161b22/#171022/g' \
+            -e 's/#0e4429/#3B0764/g' \
+            -e 's/#006d32/#6B21A8/g' \
+            -e 's/#26a641/#9333EA/g' \
+            -e 's/#39d353/#C084FC/g' \
+            -e 's/#8b949e/#C4B5FD/g' \
+            dist/bomberman-contribution-graph-dark.svg
+
+          sed -i \
+            -e 's/#ffffff/#FAF5FF/g' \
+            -e 's/#ebedf0/#F3E8FF/g' \
+            -e 's/#9be9a8/#E9D5FF/g' \
+            -e 's/#40c463/#C084FC/g' \
+            -e 's/#30a14e/#A855F7/g' \
+            -e 's/#216e39/#7E22CE/g' \
+            -e 's/#57606a/#581C87/g' \
+            dist/bomberman-contribution-graph.svg
+
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
