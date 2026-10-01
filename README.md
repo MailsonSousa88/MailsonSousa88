@@ -7,7 +7,6 @@
 `Desenvolvimento de jogos` · `Web` · `Mobile` · `APIs`
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B0714?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MailsonSousa88)
-[![Visitas](https://komarev.com/ghpvc/?username=MailsonSousa88&style=for-the-badge&color=7E22CE&label=VISITAS)](https://github.com/MailsonSousa88)
 ![Tema](https://img.shields.io/badge/TEMA-VIOLET_PROTOCOL-A855F7?style=for-the-badge&labelColor=0B0714)
 
 </div>
@@ -68,9 +67,9 @@ Meu objetivo de longo prazo é atuar como **Game Developer independente**, crian
       <p><code>React</code> <code>Node.js</code> <code>Supabase</code> <code>Stripe</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/MailsonSousa88/ifpimon-mobile">IFPIMon Mobile</a></h3>
-      <p>Aplicativo de estudo que consome a IFPIMon API e apresenta personagens, tipos, treinadores e descrições em uma experiência mobile.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code></p>
+      <h3>📚 <a href="https://github.com/MailsonSousa88/siab">SIAB</a></h3>
+      <p>Aplicativo mobile de gerenciamento de biblioteca com autenticação, consulta de acervo, empréstimos e gestão de usuários.</p>
+      <p><code>React Native</code> <code>Expo Router</code> <code>TypeScript</code> <code>MVVM</code></p>
     </td>
   </tr>
   <tr>
@@ -103,8 +102,6 @@ Meu objetivo de longo prazo é atuar como **Game Developer independente**, crian
 ![JavaScript](https://img.shields.io/badge/JavaScript-171022?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-171022?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Lua](https://img.shields.io/badge/Lua-171022?style=for-the-badge&logo=lua&logoColor=7E22CE)
-![HTML5](https://img.shields.io/badge/HTML5-171022?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-171022?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Front-end & mobile
 
@@ -152,17 +149,17 @@ Meu objetivo de longo prazo é atuar como **Game Developer independente**, crian
 
 </div>
 
-## `> contribution_snake`
+## `> contribution_bomberman`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Cobrinha devorando as contribuições do GitHub" src="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/bomberman-contribution-graph.svg" />
+  <img width="100%" alt="Bomberman explodindo as contribuições do GitHub" src="https://raw.githubusercontent.com/MailsonSousa88/MailsonSousa88/output/bomberman-contribution-graph-dark.svg" />
 </picture>
 
-<sub>Atualizada automaticamente todos os dias pelo GitHub Actions.</sub>
+<sub>💣 Bomberman abrindo caminho pelo histórico de contribuições — atualizado diariamente pelo GitHub Actions.</sub>
 
 </div>
 
